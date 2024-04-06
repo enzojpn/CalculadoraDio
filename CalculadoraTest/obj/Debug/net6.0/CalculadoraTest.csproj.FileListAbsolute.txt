@@ -97,3 +97,9 @@ C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\obj\Debug\net6.0\ref
 C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\obj\Debug\net6.0\CalculadoraTest.pdb
 C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\obj\Debug\net6.0\CalculadoraTest.genruntimeconfig.cache
 C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\obj\Debug\net6.0\ref\CalculadoraTest.dll
+C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\bin\Debug\net6.0\Calculadora.exe
+C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\bin\Debug\net6.0\Calculadora.dll
+C:\Users\bruno\Documents\dotnet\Calculadora\CalculadoraTest\bin\Debug\net6.0\Calculadora.pdb
